@@ -1,7 +1,7 @@
 
-def reverse_each_word("string")
+def reverse_each_word(string)
   array = []
-  %w(sting).each {|word| array << word.reverse}
+  (sting)split.each {|word| array << word.reverse}
   array
 
 end
