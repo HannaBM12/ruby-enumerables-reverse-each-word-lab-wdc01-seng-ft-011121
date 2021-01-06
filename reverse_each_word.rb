@@ -6,5 +6,4 @@ def reverse_each_word(sentence)
 
 end
 
-string = "Hello World"
-p reverse_each_word(string)
+
